@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* #featured-property p, figcaption {
+  width: 800px;
+  text-align: center;
+  margin: 20px;
+} */
+.div1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+span {
+  background-color: gray;
+}
+
+.div2 {
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  }
+
+  #details {
+    background-color: red;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
